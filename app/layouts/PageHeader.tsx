@@ -14,7 +14,7 @@ const PageHeader = () => {
 					showSearchBar ? "hidden" : "flex"
 				}`}
 			>
-				<Button>
+				<Button variant="ghost">
 					<Menu />
 				</Button>
 				<a href="/">
